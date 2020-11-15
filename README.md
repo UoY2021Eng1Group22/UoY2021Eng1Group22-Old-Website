@@ -12,6 +12,9 @@
 
 [Justification](https://UoY2021Eng1Group22.github.io/Justification.pdf)
 
+## Method Selection and Planning 
+[Method Selection and Planning](https://UoY2021Eng1Group22.github.io/4a_b.pdf)
+
 
 You can use the [editor on GitHub](https://github.com/UoY2021Eng1Group22/UoY2021Eng1Group22.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
