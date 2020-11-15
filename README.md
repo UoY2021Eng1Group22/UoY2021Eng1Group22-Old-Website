@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 [Hello World](https://UoY2021Eng1Group22.github.io/main_test.c)
-[Requirements]((https://UoY2021Eng1Group22.github.io/Requirements.pdf)
+
+[Requirements](https://UoY2021Eng1Group22.github.io/Requirements.pdf)
 
 You can use the [editor on GitHub](https://github.com/UoY2021Eng1Group22/UoY2021Eng1Group22.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
