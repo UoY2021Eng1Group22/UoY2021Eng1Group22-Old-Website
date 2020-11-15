@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Group 22 Website
 
 [Hello World](https://UoY2021Eng1Group22.github.io/main_test.c)
 
+# Requirements
 [Requirements](https://UoY2021Eng1Group22.github.io/Requirements.pdf)
+
+[Intro to requirements](https://UoY2021Eng1Group22.github.io\Introduction_to_requirements.pdf)
+
+# Architecture
+[Abstract and Concrete Representation](https://UoY2021Eng1Group22.github.io\Abstract_and_Concrete_Representation.pdf)
+
+[Justification](https://UoY2021Eng1Group22.github.io\Justification.pdf)
+
 
 You can use the [editor on GitHub](https://github.com/UoY2021Eng1Group22/UoY2021Eng1Group22.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
