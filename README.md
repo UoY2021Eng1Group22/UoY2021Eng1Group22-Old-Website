@@ -16,7 +16,8 @@
 [Method Selection and Planning](https://UoY2021Eng1Group22.github.io/4a_b.pdf)
 
 ## Risk Management 
-[Introduction](Risk_format_Introduction.pdf)
+[Introduction](UoY2021Eng1Group22.github.io/Risk_format_Introduction.pdf
+)
 
 [Risk Register](https://UoY2021Eng1Group22.github.io/Risk_Register.pdf)
 
