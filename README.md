@@ -2,31 +2,40 @@
 
 
 ## Requirements
-[Requirements](https://UoY2021Eng1Group22.github.io/Requirements.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/Introduction%20to%20requirements.pdf" target="_blank">Intro to requirements</a>
 
-[Intro to requirements](https://UoY2021Eng1Group22.github.io/Introduction%20to%20requirements.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/Requirements.pdf" target="_blank">Requirements</a>
+
+
+
+
+
 
 ## Architecture
-[Abstract and Concrete Representation](https://UoY2021Eng1Group22.github.io/Representation.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/4a_b.pdf" target="_blank">Abstract and Concrete Representation</a>
 
-[Justification](https://UoY2021Eng1Group22.github.io/Justification.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/Justification.pdf" target="_blank">Justification</a>
+
 
 ## Method Selection and Planning 
-[Method Selection and Planning](https://UoY2021Eng1Group22.github.io/4a_b.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/4a_b.pdf" target="_blank">Method Selection and Planning</a>
+
 ### Snapshots
-[15/10/2020](https://UoY2021Eng1Group22.github.io/15_10_2020%20PROJECT%20SCHEDULE.pdf)
 
-[22/10/2020](https://UoY2021Eng1Group22.github.io/22_10_2020%20PROJECT%20SCHEDULE.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/15_10_2020%20PROJECT%20SCHEDULE.pdf" target="_blank">15/10/2020</a>
 
-[29/10/2020](https://UoY2021Eng1Group22.github.io/29_10_2020%20PROJECT%20SCHEDULE.pdf)
+<a href="https://UoY2021Eng1Group22.github.io/22_10_2020%20PROJECT%20SCHEDULE.pdf" target="_blank">22/10/2020</a>
+
+<a href="https://UoY2021Eng1Group22.github.io/29_10_2020%20PROJECT%20SCHEDULE.pdf" target="_blank">29/10/2020</a>
 
 ## Risk Management 
-[Introduction](https://UoY2021Eng1Group22.github.io/Risk%20format%20Introduction.pdf
-)
-
-[Risk Register](https://UoY2021Eng1Group22.github.io/Risk%20Register.pdf)
-
 <a href="https://UoY2021Eng1Group22.github.io/Risk%20format%20Introduction.pdf" target="_blank">Introduction</a>
+
+<a href="https://UoY2021Eng1Group22.github.io/Risk%20Register.pdf" target="_blank">Risk Register</a>
+
+
+
+
 
 
 
