@@ -26,7 +26,7 @@
 
 [Risk Register](https://UoY2021Eng1Group22.github.io/Risk%20Register.pdf)
 
-[Introduction(test for new tab)](<a href="https://UoY2021Eng1Group22.github.io/Risk%20format%20Introduction.pdf" target="_blank">Introduction</a>)
+<a href="https://UoY2021Eng1Group22.github.io/Risk%20format%20Introduction.pdf" target="_blank">Introduction</a>
 
 
 
