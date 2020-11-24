@@ -30,6 +30,8 @@
 
 <a href="https://UoY2021Eng1Group22.github.io/12_11_2020_PROJECT_SCHEDULE.pdf" target="_blank">12/11/2020</a>
 
+<a href="https://UoY2021Eng1Group22.github.io/19_11_2020_PROJECT_SCHEDULE.pdf" target="_blank">19/11/2020</a>
+
 ## Risk Management 
 <a href="https://UoY2021Eng1Group22.github.io/Risk%20format%20Introduction.pdf" target="_blank">Introduction</a>
 
