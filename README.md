@@ -26,9 +26,9 @@
 
 <a href="https://UoY2021Eng1Group22.github.io/22_10_2020%20PROJECT%20SCHEDULE.pdf" target="_blank">22/10/2020</a>
 
-<a href="https://UoY2021Eng1Group22.github.io/06_11_20_PROJECT_SCHEDULE.pdf" target="_blank">06/11/2020</a>
+<a href="https://UoY2021Eng1Group22.github.io/06_11_2020_PROJECT_SCHEDULE.pdf" target="_blank">06/11/2020</a>
 
-<a href="https://UoY2021Eng1Group22.github.io/12_11_20_PROJECT_SCHEDULE.pdf" target="_blank">12/11/2020</a>
+<a href="https://UoY2021Eng1Group22.github.io/12_11_2020_PROJECT_SCHEDULE.pdf" target="_blank">12/11/2020</a>
 
 ## Risk Management 
 <a href="https://UoY2021Eng1Group22.github.io/Risk%20format%20Introduction.pdf" target="_blank">Introduction</a>
